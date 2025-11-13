@@ -19,7 +19,7 @@ Tabel berikut menguraikan kebutuhan host untuk setiap subnet dan menentukan pref
 | Tunnel / VPN | 2 | 4 | 4 | **/30** | 2 |
 
 ---
-# VSLM
+# VLSM
 ![](assets/vslm.png)
 ![](assets/VLSM.png)
 ### Tabel Alokasi VLSM (Metode Pohon / Tree)
